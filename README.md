@@ -8,5 +8,7 @@ Training dataset photo examples: <br>
 Download the model weights best.pt from here: 
 https://drive.google.com/file/d/1GDaA7JDKkTUORxZCDde5PlbpfHvlaHQB/view?usp=sharing
 
-Run detection
+Run detection on your picture with the command
+'''
 !python detect.py --weights best.pt --conf 0.5 --img-size 640 --source picture_name.jpeg
+'''
