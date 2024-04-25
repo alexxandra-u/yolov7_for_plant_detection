@@ -15,5 +15,5 @@ Put your picture or video in "test_pictures" folder
 
 Run detection with the command
 ```
-!python detect.py --weights best.pt --conf 0.2 --img-size 640 --source picture_name.jpeg
+!python detect.py --weights best.pt --conf 0.2 --img-size 640 --source test_pictures/picture_name.jpeg
 ```
