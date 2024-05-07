@@ -6,11 +6,12 @@ Photo examples: <br>
 ![image](https://github.com/alexxandra-u/yolov7_for_plant_detection/assets/90149266/f5343fe5-161b-4b11-ac75-5e626f1d059a)
 
 Training code available in "YOLOv7_training.ipynb"
+Code of dataset transformation and augmentation available in "dataset_transform_and_augmentation.ipynb"
 
 
 **Usage**:
 
-Clone this repository to your device
+Clone this repository
 
 Download the model weights "best.pt" from here: 
 https://drive.google.com/file/d/1GDaA7JDKkTUORxZCDde5PlbpfHvlaHQB/view?usp=sharing
