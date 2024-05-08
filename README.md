@@ -5,7 +5,7 @@ Trained on dataset https://datasetninja.com/plant-detection-and-counting <br>
 Photo examples: <br>
 ![image](https://github.com/alexxandra-u/yolov7_for_plant_detection/assets/90149266/f5343fe5-161b-4b11-ac75-5e626f1d059a)
 
-Training code available in "YOLOv7_training.ipynb"
+Training code is available in "YOLOv7_training.ipynb" <br>
 Code of dataset transformation and augmentation available in "dataset_transform_and_augmentation.ipynb"
 
 
