@@ -11,16 +11,14 @@ Code of dataset transformation and augmentation available in "dataset_transform_
 
 **Usage**:
 
-Clone this repository
+1) Clone this repository
 
-Download the model weights "best.pt" from here: 
-https://drive.google.com/file/d/1GDaA7JDKkTUORxZCDde5PlbpfHvlaHQB/view?usp=sharing
+2) Download the model weights "best.pt" and place them into the main repository folder: 
+https://drive.google.com/file/d/1LGplawVM7RZ3l3Wlv4vQrxSQN20aOm8U/view?usp=sharing
 
-Put the weights in the main repository folder
+3) Put your picture or video in "test_pictures" folder
 
-Put your picture or video in "test_pictures" folder
-
-Run detection with the command
+4) Run detection with the command
 ```
 !python detect.py --weights best.pt --conf 0.2 --img-size 640 --source test_pictures/picture_name.jpeg
 ```
