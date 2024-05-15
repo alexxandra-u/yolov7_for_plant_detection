@@ -14,7 +14,7 @@ Code of dataset transformation and augmentation available in "dataset_transform_
 1) Clone this repository
 
 2) Download the model weights "best.pt" and place them into the main repository folder: 
-https://drive.google.com/file/d/1LGplawVM7RZ3l3Wlv4vQrxSQN20aOm8U/view?usp=sharing
+https://drive.google.com/file/d/1xZXvIbF3CeZXF4kol6UI9qtpUfue3Bb7/view?usp=sharing
 
 3) Put your picture or video in "test_pictures" folder
 
